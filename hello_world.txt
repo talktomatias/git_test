@@ -1,0 +1,2 @@
+Hello there!
+These are practice changes to learn Git
